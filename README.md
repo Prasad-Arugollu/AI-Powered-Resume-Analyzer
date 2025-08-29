@@ -84,5 +84,34 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+Open `http://localhost:5173` in your browser!
+
+## 🖼️ Adding Images
+
+<img width="1919" height="940" alt="Screenshot 2025-08-29 051425" src="https://github.com/user-attachments/assets/903c582c-66d9-49e1-92a4-4125d3345f71" />
+
+<img width="1916" height="937" alt="Screenshot 2025-08-29 051508" src="https://github.com/user-attachments/assets/86717d95-36dd-4114-a019-9f1f7aabad91" />
+
+<img width="1919" height="940" alt="Screenshot 2025-08-29 051749" src="https://github.com/user-attachments/assets/f4bf69dc-ffca-40f8-b04a-ca1781a76db9" />
+
+<img width="1919" height="903" alt="Screenshot 2025-08-29 051925" src="https://github.com/user-attachments/assets/9a280543-87de-46df-afc5-a67c4f193f5e" />
+
+<img width="961" height="432" alt="Screenshot 2025-08-29 051932" src="https://github.com/user-attachments/assets/2f356323-be6c-445b-9ed4-0a36d9883460" />
+
+<img width="941" height="410" alt="Screenshot 2025-08-29 051937" src="https://github.com/user-attachments/assets/3f0fb8d7-25e4-4f7f-8e90-d0045d3ace23" />
+
+<img width="952" height="418" alt="Screenshot 2025-08-29 051947" src="https://github.com/user-attachments/assets/f6ca1601-ff26-481a-bf4a-d785fe111a01" />
+
+<img width="947" height="400" alt="Screenshot 2025-08-29 051954" src="https://github.com/user-attachments/assets/340d7d3d-71bd-417b-8d80-6078ad3240a5" />
+
+
+
+
+
+## About
+
+Visit the live app: [resumind-lyart.vercel.app](https://resumind-lyart.vercel.app/)
+
+
+
 
