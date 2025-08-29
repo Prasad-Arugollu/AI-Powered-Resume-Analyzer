@@ -88,23 +88,26 @@ Open `http://localhost:5173` in your browser!
 
 ## 🖼️ Adding Images
 
-<img width="1919" height="940" alt="Screenshot 2025-08-29 051425" src="https://github.com/user-attachments/assets/903c582c-66d9-49e1-92a4-4125d3345f71" />
+## <a name="home-page">1.Home Page</a>
+![Dashboard](Screenshots/1.png)
 
-<img width="1916" height="937" alt="Screenshot 2025-08-29 051508" src="https://github.com/user-attachments/assets/86717d95-36dd-4114-a019-9f1f7aabad91" />
+## <a name="home-page">2.Resume Upload Form</a>
+![Resume Upload Form](Screenshots/2.png)
 
-<img width="1919" height="940" alt="Screenshot 2025-08-29 051749" src="https://github.com/user-attachments/assets/f4bf69dc-ffca-40f8-b04a-ca1781a76db9" />
+## <a name="home-page">3.Resume Uploading Animation</a>
+![Resume Uploading Animation](Screenshots/3.png)
 
-<img width="1919" height="903" alt="Screenshot 2025-08-29 051925" src="https://github.com/user-attachments/assets/9a280543-87de-46df-afc5-a67c4f193f5e" />
+## <a name="home-page">4.Resume Review and ATS Score</a>
+![Resume Review and ATS Score](Screenshots/4.png)
 
-<img width="961" height="432" alt="Screenshot 2025-08-29 051932" src="https://github.com/user-attachments/assets/2f356323-be6c-445b-9ed4-0a36d9883460" />
+## <a name="home-page">5.Resume Feedback</a>
+![Dashboard](Screenshots/5.png)
 
-<img width="941" height="410" alt="Screenshot 2025-08-29 051937" src="https://github.com/user-attachments/assets/3f0fb8d7-25e4-4f7f-8e90-d0045d3ace23" />
+![Dashboard](Screenshots/6.png)
 
-<img width="952" height="418" alt="Screenshot 2025-08-29 051947" src="https://github.com/user-attachments/assets/f6ca1601-ff26-481a-bf4a-d785fe111a01" />
+![Dashboard](Screenshots/7.png)
 
-<img width="947" height="400" alt="Screenshot 2025-08-29 051954" src="https://github.com/user-attachments/assets/340d7d3d-71bd-417b-8d80-6078ad3240a5" />
-
-
+![Dashboard](Screenshots/8.png)
 
 
 
