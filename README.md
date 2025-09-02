@@ -116,6 +116,58 @@ Open `http://localhost:5173` in your browser!
 
 ![Dashboard](Screenshots/8.png)
 
+## ⚠️ Known Issue: Puter `usage-limited-chat` Error
+
+![Warning](https://img.shields.io/badge/Warning-Puter%20API%20Limit%20Detected-red?style=for-the-badge)
+
+Some users may encounter the following error when using the **Puter AI Chat API**:
+
+
+
+```json
+Uncaught (in promise)
+{
+  success: false,
+  error: {
+    delegate: 'usage-limited-chat',
+    message: 'Error 400 from delegate usage-limited-chat: Permission denied.',
+    code: 'error_400_from_delegate',
+    $: 'heyputer:api/APIError',
+    status: 400
+  }
+}
+
+```
+
+
+
+
+### 🔍 What this means
+- This error comes directly from **Puter’s backend** (`usage-limited-chat` delegate).  
+- Despite the official docs claiming **free & unlimited usage**, in reality there are **hidden rate limits / anti-abuse rules**.  
+- The block can trigger even if you switch networks or devices. It may be tied to:
+  - **Account/session restrictions**
+  - **Temporary cooldowns**
+  - **Backend delegate overload**
+
+### 🛑 What users may see
+- The app may appear to be **“stuck on Analyze”** forever.  
+- The console (DevTools) will show the error above, but most users won’t open DevTools.  
+- If you are stuck on the Analyze phase, this **may be one of the possible reasons**.  
+
+### ✅ Workarounds / Solutions
+- Try using a different network (mobile data, VPN, etc.).
+- Test in Incognito mode or log out of your Puter account.
+- Wait a few hours — sometimes this is a **temporary cooldown**.
+- If nothing works, the issue is likely on **Puter’s servers**, not in your code.
+- For production projects, consider integrating **official APIs** (OpenAI, Claude, Mistral, etc.) instead of relying solely on Puter’s free endpoints.
+
+---
+
+> ⚠️ **Note for contributors/users:**  
+> If the app looks like it’s stuck at **Analyze**, this may be one of the reasons.  
+> It’s not always caused by this error, but when it happens, it is a known limitation of Puter’s free AI API.
+
 
 
 ## About
